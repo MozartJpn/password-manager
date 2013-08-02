@@ -1,4 +1,5 @@
 <?php
+	error_reporting(0);
 	include "./configuration.php";
 	include "./objects/class.database.php";
 	include "./objects/class.user.php";
